@@ -39,7 +39,7 @@ To transform raw retail sales data into an interactive business intelligence das
 The Power BI dashboard file (`.pbix`) is included in this repository.
 
 ## 👨‍💻 Author
-Manjunath Pujari
+Manjunath Adiveppa Pujari
 
 ## 📸 Dashboard Preview
 
