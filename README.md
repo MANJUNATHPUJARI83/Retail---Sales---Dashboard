@@ -40,3 +40,5 @@ The Power BI dashboard file (`.pbix`) is included in this repository.
 
 ## 👨‍💻 Author
 Manjunath Adiveppa Pujari
+## 📸 Dashboard Preview
+![Retail Sales Dashboard](Screenshot%202026-08-30%20145530.png)
