@@ -1,46 +1,33 @@
-# Retail Sales Dashboard – Power BI
+# 📊 Retail Sales Dashboard – Power BI
 
-## 📊 Project Overview
-This project is an interactive Retail Sales Dashboard created using Microsoft Power BI.
-
-The dashboard analyzes retail sales data and provides useful business insights through KPIs, charts, filters, and interactive visualizations.
+## 📌 Project Overview
+This project analyzes retail sales data using Microsoft Power BI to understand sales performance, customers, orders, products, revenue, and regional performance.
 
 ## 🛠️ Tools & Technologies
-- Power BI
-- Power Query
+- Microsoft Power BI
 - Microsoft Excel
-- Data Cleaning & Transformation
+- SQL
+- Data Analysis
 - Data Visualization
+- DAX
 
-## 📈 Key KPIs
-- Total Sales: 145.99K
-- Total Orders: 80
-- Total Quantity: 441
-
-## 📊 Dashboard Features
-- Sales by Region
-- Sales by Product Category
-- Monthly Sales Trend
-- Total Sales KPI
-- Total Orders KPI
-- Total Quantity KPI
-- Product Category Filter
+## 📊 Dashboard
+The interactive Power BI dashboard provides insights into sales, revenue, customers, products, orders, and regional performance using KPIs and visualizations.
 
 ## 🔍 Key Insights
-- East region generated the highest sales.
-- Electronics is the highest-selling product category.
-- Sales increased from January to February and decreased in March.
-- The dashboard allows users to interact with the data using filters.
+- Analyzed sales and revenue performance
+- Identified top-performing products
+- Analyzed customer and order trends
+- Compared regional sales performance
+- Created interactive KPIs and visualizations
+- Generated data-driven business insights
 
-## 🎯 Project Objective
-To transform raw retail sales data into an interactive business intelligence dashboard that helps understand sales performance and identify useful business insights.
-
-## 📁 Project File
-The Power BI dashboard file (`.pbix`) is included in this repository.
+## 🎯 Objective
+To analyze retail sales performance and provide actionable insights for better business decisions.
 
 ## 👨‍💻 Author
-Manjunath Adiveppa Pujari
+**Manjunath Adiveppa Pujari**
 
-## 📸 Dashboard Preview
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-![Retail Sales Dashboard](Screenshot%202026-08-30%20150609.png)
+GitHub: **MANJUNATHPUJARI83**
